@@ -1,0 +1,15 @@
+.eye-detection-container {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .eye-detection-title {
+    font-size: 24px;
+  }
+  
+  .eye-state {
+    font-size: 18px;
+  }
+  
